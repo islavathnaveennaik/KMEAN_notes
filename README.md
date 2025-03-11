@@ -7,4 +7,4 @@
 2. Impact of initialisation
 3. Determining K
 4. Drawbacks of KMeans
-5. 
+   
